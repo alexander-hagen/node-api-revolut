@@ -1,6 +1,6 @@
 # node-api-revolut
 
-![Statements](https://img.shields.io/badge/statements-71.98%25-yellow.svg?style=flat) ![Branches](https://img.shields.io/badge/branches-43.22%25-red.svg?style=flat) ![Functions](https://img.shields.io/badge/functions-70%25-yellow.svg?style=flat) ![Lines](https://img.shields.io/badge/lines-79.81%25-yellow.svg?style=flat)
+![Statements](https://img.shields.io/badge/statements-74.87%25-yellow.svg?style=flat) ![Branches](https://img.shields.io/badge/branches-35.29%25-red.svg?style=flat) ![Functions](https://img.shields.io/badge/functions-83.33%25-brightgreen.svg?style=flat) ![Lines](https://img.shields.io/badge/lines-81.57%25-brightgreen.svg?style=flat)
 
 Non-official implementation of Revolut's Crypto API's. Developed for personal use.
 
@@ -35,6 +35,7 @@ For support on using the API's or development issues, please refer to the offici
 | getAllCurrencies    | https://developer.revolut.com/docs/x-api/get-all-currencies     |
 | getAllCurrencyPairs | https://developer.revolut.com/docs/x-api/get-all-currency-pairs |
 | placeOrder          | https://developer.revolut.com/docs/x-api/place-order            |
+| cancelOrders        | https://developer.revolut.com/docs/x-api/cancel-all-orders      |
 | getActiveOrders     | https://developer.revolut.com/docs/x-api/get-active-orders      |
 | getHistoricalOrders | https://developer.revolut.com/docs/x-api/get-historical-orders  |
 | getOrderByID        | https://developer.revolut.com/docs/x-api/get-order              |
