@@ -1,6 +1,6 @@
 {
   "name": "node-api-revolut",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Non-official implementation of Revolut's Crypto API's",
   "main": "index.js",
   "jest": {
