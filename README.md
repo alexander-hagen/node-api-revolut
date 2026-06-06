@@ -40,6 +40,7 @@ For support on using the API's or development issues, please refer to the offici
 | getHistoricalOrders | https://developer.revolut.com/docs/x-api/get-historical-orders  |
 | getOrderByID        | https://developer.revolut.com/docs/x-api/get-order              |
 | cancelOrderByID     | https://developer.revolut.com/docs/x-api/cancel-order           |
+| replaceOrder        | https://developer.revolut.com/docs/x-api/replace-order          |
 | getFillsByID        | https://developer.revolut.com/docs/x-api/get-order-fills        |
 | getPublicTrades     | https://developer.revolut.com/docs/x-api/get-all-trades         |
 | getClientTrades     | https://developer.revolut.com/docs/x-api/get-private-trades     |
